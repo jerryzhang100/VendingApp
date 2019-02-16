@@ -35,7 +35,7 @@ namespace VendingApp
             // Load the rendered HTML into the view with a base URL 
             // that points to the root of the bundled Assets folder
            // webView.LoadDataWithBaseURL("file:///android_asset/", page, "text/html", "UTF-8", null);
-            webView.LoadUrl("http://www.baidu12.com");
+            webView.LoadUrl("http://www.baidu123.com");
 
         }
 
